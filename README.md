@@ -1,2 +1,9 @@
-# animated-login-form
-A very interesting animated login from
+<a href=https://jesserds.github.io/animated-login-form/" target="_blank"><img src="./alf.gif" alt="alf" height=350 class="center"/></a>
+
+# Animated login form
+                                                                                                                                         
+Here's a very interisting animated login form with a catchy style.
+                                                                                                                                       
+<a href="https://jesserds.github.io/animated-login-form/" target="_blank"><strong>CHECK IT OUT</strong></a>
+                                                                         
+<p>Credits to <a href="https://www.instagram.com/onebitcode/" target="_blank"><strong>Onebitecode</strong></a></p>                                                                         
